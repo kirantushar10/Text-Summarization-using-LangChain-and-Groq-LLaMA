@@ -44,7 +44,7 @@
     font-size: 22px;
   ">📘 Overview</h2>
 
-    <ul style="margin: 0; padding-left: 22px; font-size: 15px; line-height: 1.7; color: #334155;">
+  <ul style="margin: 0; padding-left: 22px; font-size: 15px; line-height: 1.7; color: #334155;">
     <li>⚡ Ultra-fast <strong>text summarization</strong> powered by Groq LLaMA 3.1.</li>
     <li>🧩 Multiple <strong>LangChain summarization chains</strong>: Stuff, Map-Reduce, Refine.</li>
     <li>📄 Supports <strong>PDF document summarization</strong> with PyPDFLoader.</li>
@@ -53,7 +53,7 @@
     <li>🔢 Includes <strong>token usage tracking</strong> for optimization.</li>
     <li>📓 Built for <strong>clean, reproducible experimentation</strong> in Jupyter Notebook.</li>
     <li>🧠 Ideal for developers and researchers exploring <strong>LLM-based summarization</strong>.</li>
-    </ul>
+  </ul>
 
   <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 24px 0;">
 
