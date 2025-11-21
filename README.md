@@ -2,7 +2,7 @@
 
 <div align="center">
 
-⚡ Ultra-fast text summarization with Groq LLaMA + LangChain — PDFs, chunking, and multilingual summaries made easy.
+✨ Ultra-fast text summarization with Groq LLaMA + LangChain — PDFs, chunking, and multilingual summaries made easy ✨
 
 ---
   
