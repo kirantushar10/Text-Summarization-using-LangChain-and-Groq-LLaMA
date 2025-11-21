@@ -131,7 +131,7 @@ GROQ_API_KEY = "your_api_key_here"
     display: flex;
     align-items: center;
     gap: 8px;
-  ">📘 Project Workflow Overview</h3>
+  ">📋 Project Workflow Overview</h3>
   
   
   <h4>1️⃣ Load the LLM</h4>
