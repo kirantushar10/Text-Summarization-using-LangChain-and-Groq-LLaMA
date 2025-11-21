@@ -26,16 +26,7 @@
 ---
 
 <!-- OVERVIEW - CSS STYLED CARD WITH ITALIC PARAGRAPHS -->
-<div style="
-  background: #f7fbff;
-  border: 1px solid #e6eef9;
-  padding: 18px 22px;
-  border-radius: 10px;
-  margin: 20px 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  color: #0f172a;
-  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.04);
-">
+<div>
   <h3 style="
     margin: 0 0 10px 0;
     color: #0ea5e9;
