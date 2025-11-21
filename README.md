@@ -213,5 +213,16 @@ GROQ_API_KEY = "your_api_key_here"
   </div>
   
 </div>
+
 ---
 
+  <h3 style="
+    margin: 0 0 10px 0;
+    color: #0ea5e9;
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  ">🤝 Contributing</h3>
+  Contributions are welcome! Feel free to open issues or submit pull requests.
