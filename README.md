@@ -1,7 +1,7 @@
 # ⚡️ Text Summarization using LangChain and Groq LLaMA 3.1
 
----
 <div align="center">
+  ---
   ### 🚀 **PDF Loader** • 🧩 **Summarization Chains** • ⚡ **Groq LLaMA 3.1** • 🔡 **Token Counting** • 📊 **Chunking & Optimization** • 🌐 **Multilingual Output**
 
 
