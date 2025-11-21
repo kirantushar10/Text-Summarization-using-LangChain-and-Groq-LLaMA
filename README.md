@@ -35,7 +35,7 @@
     display: flex;
     align-items: center;
     gap: 8px;
-  ">📘 Overview</h3>
+  ">📘 <ins>Overview </ins></h3>
   <i> 
   <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65; font-style: italic;">
       ⚡ Ultra-fast text summarization powered by Groq LLaMA 3.1, supporting multiple LangChain pipelines such as Stuff, Map-Reduce, and Refine.
