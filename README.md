@@ -41,8 +41,8 @@ Follow these steps to set up and run the interactive notebook locally.
 ### **📦 Installation**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/your-username/your-repo-name.git\](https://github.com/your-username/your-repo-name.git)  
-   cd your-repo-name
+   git clone https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA.git
+   cd Text-Summarization-using-LangChain-and-Groq-LLaMA
 
 2. Install dependencies:  
    The required packages are listed in the requirements.txt file.  
