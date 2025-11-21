@@ -225,4 +225,4 @@ GROQ_API_KEY = "your_api_key_here"
     align-items: center;
     gap: 8px;
   ">🤝 Contributing</h3>
-  Contributions are welcome! Feel free to open issues or submit pull requests.
+  <i> Contributions are welcome! Feel free to open issues or submit pull requests. </i>
