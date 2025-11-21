@@ -185,3 +185,24 @@ GROQ_API_KEY = "your_api_key_here"
   ```
 
 </div>
+
+<div>
+
+  <h3 style="
+    margin: 0 0 10px 0;
+    color: #0ea5e9;
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  ">📝 Use Cases</h3>
+  Summarizing political speeches, interviews, or long transcripts
+
+Condensing large PDF reports
+
+Creating structured summaries for presentations
+
+Generating multilingual summaries automatically
+  
+</div>
