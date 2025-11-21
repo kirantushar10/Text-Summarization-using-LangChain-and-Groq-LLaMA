@@ -145,11 +145,43 @@ GROQ_API_KEY = "your_api_key_here"
   Define a speech text, token-count it, then call the model with a simple prompt:
   
   ```
-    chat_message = [
-        SystemMessage(content="You are expert with expertise in summarizing speeches"),
-        HumanMessage(content=f"Please provide a short and concise summary of the following speech:\nText:{speech}")
-      ]
     llm.invoke(chat_message)
+  ```
+
+  <h4>3️⃣ Summarization Using Prompt Templates</h4>
+  
+  
+  ```
+    llm_chain = LLMChain(llm=llm, prompt=prompt)
+    summary = llm_chain.run({'speech': speech, 'language': 'hindi'})
+  ```
+
+  <h4>4️⃣ PDF Summarization</h4>
+  
+  
+  ```
+    docs = PyPDFLoader("apjspeech.pdf").load_and_split()
+  ```
+
+  <h4>5️⃣ Stuff Chain (Small/Medium Documents)</h4>
+  
+  
+  ```
+    output_summary = load_summarize_chain(llm, chain_type='stuff').run(docs)
+  ```
+
+  <h4>6️⃣ Map-Reduce Chain (Large Documents)</h4>
+  
+  
+  ```
+    output = summary_chain.run(final_documents)
+  ```
+
+  <h4>7️⃣  Refine Chain (Iterative Improvement)</h4>
+  
+  
+  ```
+    output_summary = refine_chain.run(final_documents)
   ```
 
 </div>
