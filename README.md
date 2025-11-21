@@ -10,8 +10,12 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-red" />
 </p>
 
-🔗 **GitHub Repository:**  
-https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA
+<p align="center">
+  🔗 <strong>GitHub Repository:</strong><br>
+  <a href="https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA">
+    https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA
+  </a>
+</p>
 
 ---
 
