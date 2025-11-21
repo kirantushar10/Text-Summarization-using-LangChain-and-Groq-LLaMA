@@ -198,7 +198,7 @@ GROQ_API_KEY = "your_api_key_here"
     gap: 8px;
   ">📝 Use Cases</h3>
   
-  -- Summarizing political speeches, interviews, or long transcripts
+  <li>  Summarizing political speeches, interviews, or long transcripts </li> 
 
   -- Condensing large PDF reports
 
