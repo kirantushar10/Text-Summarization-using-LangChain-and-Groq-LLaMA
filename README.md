@@ -67,7 +67,7 @@
     display: flex;
     align-items: center;
     gap: 8px;
-  "><ins>🛠️ Setup Instructions</ins></h3>
+  ">🛠️ <ins>Setup Instructions</ins></h3>
 
   To get started with this project, follow the steps below.
 
@@ -131,7 +131,7 @@ GROQ_API_KEY = "your_api_key_here"
     display: flex;
     align-items: center;
     gap: 8px;
-  ">📋 Project Workflow Overview</h3>
+  ">📋 <ins>Project Workflow Overview<ins></h3>
   
   
   <h4>1️⃣ Load the LLM</h4>
@@ -198,7 +198,7 @@ GROQ_API_KEY = "your_api_key_here"
     display: flex;
     align-items: center;
     gap: 8px;
-  ">📝 Use Cases</h3>
+  ">📝<ins> Use Cases </ins></h3>
 
   <div>
 
