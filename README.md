@@ -85,11 +85,11 @@ It is highly recommended to use a virtual environment to manage dependencies.
 python -m venv venv
 ```
 
-# For Mac/Linux:
+For Mac/Linux:
 ```
 source venv/bin/activate
 ```
-# For Windows (Command Prompt):
+For Windows (Command Prompt):
 ```
 venv\Scripts\activate
 ```
@@ -103,11 +103,10 @@ pip install -r requirements.txt
 
 4️⃣ Set up Environment Variables
 
-Create a file named <span class="env-file">.env</span> in the project root and add your Groq API key:
-
-<div class="code-block env-file">
-<span class="env-key">GROQ_API_KEY</span>=<span class="env-value">your_api_key_here</span>
-</div>
+Create a file named .env in the project root and add your Groq API key:
+```
+GROQ_API_KEY = "your_api_key_here"
+```
 
 (You must register for the Groq API and obtain a key from their console.)
 
