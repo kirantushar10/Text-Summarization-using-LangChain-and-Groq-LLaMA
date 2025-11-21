@@ -78,8 +78,8 @@
     cd Text-Summarization-using-LangChain-and-Groq-LLaMA
   ```
 
+ <h4>2️⃣ Create & Activate a Virtual Environment</h4>
 
-2️⃣ Create & Activate a Virtual Environment
 
 It is highly recommended to use a virtual environment to manage dependencies.
 ```
@@ -94,15 +94,14 @@ For Windows (Command Prompt):
 ```
 venv\Scripts\activate
 ```
+ <h4>3️⃣ Install Dependencies</h4>
 
-3️⃣ Install Dependencies
 
 Install all necessary libraries using the provided requirements.txt file.
 ```
 pip install -r requirements.txt
 ```
-
-4️⃣ Set up Environment Variables
+ <h4>4️⃣ Set up Environment Variables</h4>
 
 Create a file named .env in the project root and add your Groq API key:
 ```
@@ -111,7 +110,8 @@ GROQ_API_KEY = "your_api_key_here"
 
 (You must register for the Groq API and obtain a key from their console.)
 
-5️⃣ Run the Notebook
+ <h4>5️⃣ Run the Notebook</h4>
+
 
 Launch the Jupyter environment and open the notebook.
 
