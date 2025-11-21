@@ -25,7 +25,7 @@
 
 ---
 
-<!-- OVERVIEW - CSS STYLED CARD (copy-paste into README) -->
+<!-- OVERVIEW - CSS STYLED CARD WITH ITALIC PARAGRAPHS -->
 <div style="
   background: #f7fbff;
   border: 1px solid #e6eef9;
@@ -50,11 +50,11 @@
     ⚡ Ultra-fast text summarization powered by Groq LLaMA 3.1, supporting multiple LangChain pipelines such as Stuff, Map-Reduce, and Refine.
   </p>
 
-  <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65;font-style: italic;">
+  <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65; font-style: italic;">
     📄 Handles PDF document summarization with PyPDFLoader and uses recursive chunk splitting for long documents.
   </p>
 
-  <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65;font-style: italic;">
+  <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65; font-style: italic;">
     🌍 Generates multilingual summaries (Hindi, French, and more) and includes token usage tracking for optimization.
   </p>
 
