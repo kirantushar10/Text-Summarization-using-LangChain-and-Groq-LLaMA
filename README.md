@@ -200,13 +200,13 @@ GROQ_API_KEY = "your_api_key_here"
 
   <div>
 
-  Summarizing political speeches, interviews, or long transcripts
+   Summarizing political speeches, interviews, or long transcripts
 
-Condensing large PDF reports
+  Condensing large PDF reports
 
-Creating structured summaries for presentations
+  Creating structured summaries for presentations
 
-Generating multilingual summaries automatically
+  Generating multilingual summaries automatically
     
   </div>
   
