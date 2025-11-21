@@ -25,54 +25,40 @@
 
 ---
 
-<!-- OVERVIEW + TOOLS USED (COMBINED SECTION) -->
+<!-- OVERVIEW - CSS STYLED CARD (copy-paste into README) -->
 <div style="
-  background: #f7f9ff;
-  border: 1px solid #e2e8f0;
-  padding: 22px 24px;
+  background: #f7fbff;
+  border: 1px solid #e6eef9;
+  padding: 18px 22px;
   border-radius: 10px;
-  margin: 28px 0;
-  font-family: 'Segoe UI', sans-serif;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+  margin: 20px 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  color: #0f172a;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.04);
 ">
-
-  <!-- OVERVIEW TITLE -->
-  <h2 style="
-    margin: 0 0 12px 0;
-    color: #3b82f6;
-    font-weight: 800;
-    font-size: 22px;
-  ">📘 Overview</h2>
-
-  <ul style="margin: 0; padding-left: 22px; font-size: 15px; line-height: 1.7; color: #334155;">
-    <li>⚡ Ultra-fast <strong>text summarization</strong> powered by Groq LLaMA 3.1.</li>
-    <li>🧩 Multiple <strong>LangChain summarization chains</strong>: Stuff, Map-Reduce, Refine.</li>
-    <li>📄 Supports <strong>PDF document summarization</strong> with PyPDFLoader.</li>
-    <li>✂️ Uses <strong>recursive chunk splitting</strong> for long document handling.</li>
-    <li>🌍 Generates <strong>multilingual summaries</strong> (Hindi, French, and more).</li>
-    <li>🔢 Includes <strong>token usage tracking</strong> for optimization.</li>
-    <li>📓 Built for <strong>clean, reproducible experimentation</strong> in Jupyter Notebook.</li>
-    <li>🧠 Ideal for developers and researchers exploring <strong>LLM-based summarization</strong>.</li>
-  </ul>
-
-  <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 24px 0;">
-
-  <!-- TOOLS USED TITLE -->
-  <h2 style="
-    margin: 0 0 12px 0;
+  <h3 style="
+    margin: 0 0 10px 0;
     color: #0ea5e9;
-    font-weight: 800;
-    font-size: 22px;
-  ">🛠️ Tools Used</h2>
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  ">📘 Overview</h3>
 
-  <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 1.7; color: #334155;">
-    <li><strong>Groq LLaMA 3.1</strong> — Ultra-fast LLM inference ⚡</li>
-    <li><strong>LangChain</strong> — Summarization chains & LLM orchestration 🧩</li>
-    <li><strong>Python 3.10</strong> — Primary backend language 🐍</li>
-    <li><strong>PyPDFLoader</strong> — PDF text extraction 📄</li>
-    <li><strong>RecursiveCharacterTextSplitter</strong> — Smart text chunking ✂️</li>
-    <li><strong>Jupyter Notebook</strong> — Interactive experimentation 📓</li>
-    <li><strong>dotenv</strong> — Secure API key management 🔐</li>
-  </ul>
+  <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65;">
+    ⚡ Ultra-fast text summarization powered by Groq LLaMA 3.1, supporting multiple LangChain pipelines such as Stuff, Map-Reduce, and Refine 🧩.
+  </p>
 
+  <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65;">
+    📄 Handles PDF document summarization with PyPDFLoader and uses recursive chunk splitting ✂️ for long documents.
+  </p>
+
+  <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65;">
+    🌍 Generates multilingual summaries (Hindi, French, and more) and includes token usage tracking 🔢 for optimization.
+  </p>
+
+  <p style="margin: 8px 0 0 0; font-size: 14.5px; line-height: 1.65;">
+    📓 Designed for clean, reproducible Jupyter Notebook workflows and ideal for developers or researchers exploring LLM-based summarization 🧠.
+  </p>
 </div>
