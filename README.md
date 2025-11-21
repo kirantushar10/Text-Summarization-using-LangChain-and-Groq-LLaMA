@@ -197,13 +197,17 @@ GROQ_API_KEY = "your_api_key_here"
     align-items: center;
     gap: 8px;
   ">📝 Use Cases</h3>
-  
-  <li>  Summarizing political speeches, interviews, or long transcripts </li> 
 
-  -- Condensing large PDF reports
+  <div>
 
-  -- Creating structured summaries for presentations
+  Summarizing political speeches, interviews, or long transcripts
 
-  -- Generating multilingual summaries automatically
+Condensing large PDF reports
+
+Creating structured summaries for presentations
+
+Generating multilingual summaries automatically
+    
+  </div>
   
 </div>
