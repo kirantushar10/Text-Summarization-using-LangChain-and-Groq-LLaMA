@@ -57,8 +57,17 @@
 </div>
 
 ---
+<div> 
 
-🛠️ Setup Instructions
+  <h3 style="
+    margin: 0 0 10px 0;
+    color: #0ea5e9;
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  ">🛠️ Setup Instructions</h3>
 
 To get started with this project, follow the steps below.
 
@@ -124,3 +133,6 @@ Launch the Jupyter environment and open the notebook.
 </div>
 
 Execute the cells step-by-step to reproduce the entire summarization workflow.
+
+
+</div>
