@@ -118,3 +118,38 @@ GROQ_API_KEY = "your_api_key_here"
    3. Execute the cells step-by-step to reproduce the entire summarization workflow.
   ```
 </div>
+
+---
+
+<div>
+
+  <h3 style="
+    margin: 0 0 10px 0;
+    color: #0ea5e9;
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  ">📘 Project Workflow Overview</h3>
+  
+  
+  <h4>1️⃣ Load the LLM</h4>
+
+  ```
+    llm = ChatGroq(model="llama-3.1-8b-instant", groq_api_key=groq_api_key)
+  ```
+
+  <h4>2️⃣ Simple Speech Summarisation</h4>
+  
+  Define a speech text, token-count it, then call the model with a simple prompt:
+  
+  ```
+    chat_message = [
+        SystemMessage(content="You are expert with expertise in summarizing speeches"),
+        HumanMessage(content=f"Please provide a short and concise summary of the following speech:\nText:{speech}")
+      ]
+    llm.invoke(chat_message)
+  ```
+
+</div>
