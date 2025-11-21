@@ -1,24 +1,23 @@
 # ⚡️ Text Summarization using LangChain and Groq LLaMA 3.1
 
 ---
-<p align="center">
-  🚀 **PDF Loader** • 🧩 **Summarization Chains** • ⚡ **Groq LLaMA 3.1** • 🔡 **Token Counting** • 📊 **Chunking & Optimization** • 🌐 **Multilingual Output**
-</p>
-<p align="center">
+<div align="center">
+  ### 🚀 **PDF Loader** • 🧩 **Summarization Chains** • ⚡ **Groq LLaMA 3.1** • 🔡 **Token Counting** • 📊 **Chunking & Optimization** • 🌐 **Multilingual Output**
+
+
   <img src="https://img.shields.io/badge/Python-3.10+-blue" />
   <img src="https://img.shields.io/badge/LangChain-Framework-orange" />
   <img src="https://img.shields.io/badge/Groq-LLaMA_3.1_8B-green" />
   <img src="https://img.shields.io/badge/Text_Summarization-purple" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-red" />
-</p>
 
-<p align="center">
+
   🔗 <strong>GitHub Repository:</strong><br>
   <a href="https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA">
     https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA
   </a>
-</p>
+</div>
 
 ---
 
