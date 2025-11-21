@@ -1,8 +1,7 @@
 # ⚡️ Text Summarization using LangChain and Groq LLaMA 3.1
 
 ---
-
-### 🚀 **LangChain** • ⚡ **Groq LLaMA 3.1** • 📄 **PDF Loader** • 🧩 **Summarization Chains** • 🔡 **Token Counting** • 📊 **Chunking & Optimization**
+<p align="center">
 
 ![Static Badge](https://img.shields.io/badge/Python-3.10+-blue)
 ![Static Badge](https://img.shields.io/badge/LangChain-Framework-orange)
@@ -10,6 +9,8 @@
 ![Static Badge](https://img.shields.io/badge/Text_Summarization-purple)
 ![Static Badge](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Static Badge](https://img.shields.io/badge/Jupyter-Notebook-red)
+
+</p>
 
 🔗 **GitHub Repository:**  
 https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA
