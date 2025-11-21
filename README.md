@@ -71,7 +71,7 @@
 
 To get started with this project, follow the steps below.
 
-1️⃣ Clone the Repository
+1️⃣ <h2> Clone the Repository </h2>
   ```
   git clone https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA.git
   cd Text-Summarization-using-LangChain-and-Groq-LLaMA
