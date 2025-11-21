@@ -113,11 +113,8 @@ GROQ_API_KEY = "your_api_key_here"
  <h4>5️⃣ Run the Notebook</h4>
 
 
-  <li>Launch the Jupyter environment and open the notebook.</li>
-
-  <li>jupyter notebook TextSummarization.ipynb</li>
-
-
-  <li>Execute the cells step-by-step to reproduce the entire summarization workflow.</li>
+   1. Launch the Jupyter environment and open the notebook.
+   2. jupyter notebook TextSummarization.ipynb
+   3. Execute the cells step-by-step to reproduce the entire summarization workflow.
 
 </div>
