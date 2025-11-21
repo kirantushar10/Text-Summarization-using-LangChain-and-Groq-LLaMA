@@ -36,10 +36,10 @@
     align-items: center;
     gap: 8px;
   ">📘 Overview</h3>
-
-  <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65; font-style: italic;">
-    ⚡ Ultra-fast text summarization powered by Groq LLaMA 3.1, supporting multiple LangChain pipelines such as Stuff, Map-Reduce, and Refine.
-  </p>
+  <li> 
+      <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65; font-style: italic;">
+        ⚡ Ultra-fast text summarization powered by Groq LLaMA 3.1, supporting multiple LangChain pipelines such as Stuff, Map-Reduce, and Refine.
+      </p>
 
   <p style="margin: 8px 0; font-size: 14.5px; line-height: 1.65; font-style: italic;">
     📄 Handles PDF document summarization with PyPDFLoader and uses recursive chunk splitting for long documents.
@@ -52,4 +52,6 @@
   <p style="margin: 8px 0 0 0; font-size: 14.5px; line-height: 1.65; font-style: italic;">
     📓 Designed for clean, reproducible Jupyter Notebook workflows and ideal for developers or researchers exploring LLM-based summarization.
   </p>
+  </li>
+
 </div>
