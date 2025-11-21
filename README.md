@@ -69,9 +69,10 @@
     gap: 8px;
   ">🛠️ Setup Instructions</h3>
 
-To get started with this project, follow the steps below.
+  To get started with this project, follow the steps below.
 
-  <h4> 1️⃣ Clone the Repository </h4>
+  <h4>1️⃣ Clone the Repository</h4>
+
   ```
     git clone https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA.git
     cd Text-Summarization-using-LangChain-and-Groq-LLaMA
