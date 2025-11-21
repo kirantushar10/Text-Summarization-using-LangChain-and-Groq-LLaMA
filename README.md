@@ -67,7 +67,7 @@
     display: flex;
     align-items: center;
     gap: 8px;
-  ">🛠️ Setup Instructions</h3>
+  "><ins>🛠️ Setup Instructions</ins></h3>
 
   To get started with this project, follow the steps below.
 
