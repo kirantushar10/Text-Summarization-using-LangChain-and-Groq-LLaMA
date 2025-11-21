@@ -25,65 +25,29 @@
 
 ---
 
-## 🛠️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## **TECHNOLOGY STACK**  
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+<!-- TOOLS USED SECTION -->
+<div style="
+  background: #eefaff;
+  border-left: 6px solid #0ea5e9;
+  padding: 16px 20px;
+  border-radius: 6px;
+  margin: 20px 0;
+  font-family: 'Segoe UI', sans-serif;
+">
+  <h2 style="
+    margin: 0 0 10px 0;
+    color: #0ea5e9;
+    font-weight: 700;
+  ">🛠️ Tools Used</h2>
 
-- ⚡ **Groq** — High-speed inference  
-- 🧩 **LangChain** — LLM orchestration  
-- 🐍 **Python 3.10** — Backend language  
-- 🧠 **LLaMA 3.1 8B** — Fast, optimized LLM  
+  <ul style="margin: 0; padding-left: 18px; font-size: 15px; line-height: 1.6;">
+    <li><strong>Groq LLaMA 3.1</strong> — Ultra-fast LLM inference ⚡</li>
+    <li><strong>LangChain</strong> — Summarization chains & LLM orchestration 🧩</li>
+    <li><strong>Python 3.10</strong> — Primary backend language 🐍</li>
+    <li><strong>PyPDFLoader</strong> — PDF text extraction 📄</li>
+    <li><strong>RecursiveCharacterTextSplitter</strong> — Smart text chunking ✂️</li>
+    <li><strong>Jupyter Notebook</strong> — Interactive experimentation 📓</li>
+    <li><strong>dotenv</strong> — Secure API key management 🔐</li>
+  </ul>
+</div>
 
-This project demonstrates multiple **text summarization techniques** inside the interactive **TextSummarization.ipynb** notebook.
-
----
-
-## ✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## **KEY CAPABILITIES**  
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-
-### 🧠 Ultra-Fast LLM Summaries  
-Powered by **Groq’s LLaMA-3.1-8B**.
-
-### 🧩 Summarization Architectures  
-- Direct Prompt Summaries 💬  
-- Prompt Template Summaries 📐  
-- Stuff 📦  
-- Map-Reduce 🗺️  
-- Refine 🔄  
-
-### 📄 PDF Summarization  
-Process PDFs using **PyPDFLoader**.
-
-### 🌐 Multilingual Support  
-Generate summaries in Hindi, French, and more.
-
-### ⚙️ Token Counting  
-Monitor & optimize token usage.
-
-### 🔍 Recursive Chunk Splitting  
-Ideal for large documents.
-
-### 🧪 Fully Reproducible Notebook  
-Experiment easily inside Jupyter.
-
----
-
-## ⚙️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## **GETTING STARTED**  
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-
-### 📋 Prerequisites  
-- Python 3.10  
-- Jupyter Notebook / Lab  
-
----
-
-## 📦 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## **INSTALLATION**  
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA.git
-cd Text-Summarization-using-LangChain-and-Groq-LLaMA
