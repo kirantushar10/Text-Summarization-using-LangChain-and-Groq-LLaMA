@@ -57,3 +57,70 @@
 </div>
 
 ---
+
+🛠️ Setup Instructions
+
+To get started with this project, follow the steps below.
+
+1. Clone the Repository
+
+<div class="code-block">
+<span class="command">git clone https://github.com/kirantushar10/Text-Summarization-using-LangChain-and-Groq-LLaMA.git</span>
+<span class="command">cd Text-Summarization-using-LangChain-and-Groq-LLaMA</span>
+</div>
+
+2. Create & Activate a Virtual Environment
+
+It is highly recommended to use a virtual environment to manage dependencies.
+
+<div class="code-block">
+<span class="command">python -m venv venv</span>
+
+
+
+
+<span class="comment"># For Mac/Linux:</span>
+
+
+
+
+<span class="command">source venv/bin/activate</span>
+
+
+
+
+<span class="comment"># For Windows (Command Prompt):</span>
+
+
+
+
+<span class="command">venv\Scripts\activate</span>
+</div>
+
+3. Install Dependencies
+
+Install all necessary libraries using the provided requirements.txt file.
+
+<div class="code-block">
+<span class="command">pip install -r requirements.txt</span>
+</div>
+
+4. Set up Environment Variables
+
+Create a file named <span class="env-file">.env</span> in the project root and add your Groq API key:
+
+<div class="code-block env-file">
+<span class="env-key">GROQ_API_KEY</span>=<span class="env-value">your_api_key_here</span>
+</div>
+
+(You must register for the Groq API and obtain a key from their console.)
+
+5. Run the Notebook
+
+Launch the Jupyter environment and open the notebook.
+
+<div class="code-block">
+<span class="command">jupyter notebook TextSummarization.ipynb</span>
+</div>
+
+Execute the cells step-by-step to reproduce the entire summarization workflow.
