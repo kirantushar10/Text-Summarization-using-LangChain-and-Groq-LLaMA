@@ -2,6 +2,9 @@
 
 ---
 <p align="center">
+  🚀 **PDF Loader** • 🧩 **Summarization Chains** • ⚡ **Groq LLaMA 3.1** • 🔡 **Token Counting** • 📊 **Chunking & Optimization** • 🌐 **Multilingual Output**
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue" />
   <img src="https://img.shields.io/badge/LangChain-Framework-orange" />
   <img src="https://img.shields.io/badge/Groq-LLaMA_3.1_8B-green" />
