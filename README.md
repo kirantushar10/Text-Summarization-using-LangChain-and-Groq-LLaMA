@@ -81,38 +81,25 @@ To get started with this project, follow the steps below.
 2️⃣ Create & Activate a Virtual Environment
 
 It is highly recommended to use a virtual environment to manage dependencies.
+```
+python -m venv venv
+```
 
-<div class="code-block">
-<span class="command">python -m venv venv</span>
-
-
-
-
-<span class="comment"># For Mac/Linux:</span>
-
-
-
-
-<span class="command">source venv/bin/activate</span>
-
-
-
-
-<span class="comment"># For Windows (Command Prompt):</span>
-
-
-
-
-<span class="command">venv\Scripts\activate</span>
-</div>
+# For Mac/Linux:
+```
+source venv/bin/activate
+```
+# For Windows (Command Prompt):
+```
+venv\Scripts\activate
+```
 
 3️⃣ Install Dependencies
 
 Install all necessary libraries using the provided requirements.txt file.
-
-<div class="code-block">
-<span class="command">pip install -r requirements.txt</span>
-</div>
+```
+pip install -r requirements.txt
+```
 
 4️⃣ Set up Environment Variables
 
