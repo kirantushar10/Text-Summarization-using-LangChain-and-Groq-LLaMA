@@ -2,7 +2,8 @@
 
 <div align="center">
   ---
-  ### 🚀 **PDF Loader** • 🧩 **Summarization Chains** • ⚡ **Groq LLaMA 3.1** • 🔡 **Token Counting** • 📊 **Chunking & Optimization** • 🌐 **Multilingual Output**
+  
+### 🚀 **PDF Loader** • 🧩 **Summarization Chains** • ⚡ **Groq LLaMA 3.1** • 🔡 **Token Counting** • 📊 **Chunking & Optimization** • 🌐 **Multilingual Output**
 
 
   <img src="https://img.shields.io/badge/Python-3.10+-blue" />
