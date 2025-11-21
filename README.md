@@ -2,14 +2,12 @@
 
 ---
 <p align="center">
-
-![Static Badge](https://img.shields.io/badge/Python-3.10+-blue)
-![Static Badge](https://img.shields.io/badge/LangChain-Framework-orange)
-![Static Badge](https://img.shields.io/badge/Groq-LLaMA_3.1_8B-green)
-![Static Badge](https://img.shields.io/badge/Text_Summarization-purple)
-![Static Badge](https://img.shields.io/badge/Status-Active-brightgreen)
-![Static Badge](https://img.shields.io/badge/Jupyter-Notebook-red)
-
+  <img src="https://img.shields.io/badge/Python-3.10+-blue" />
+  <img src="https://img.shields.io/badge/LangChain-Framework-orange" />
+  <img src="https://img.shields.io/badge/Groq-LLaMA_3.1_8B-green" />
+  <img src="https://img.shields.io/badge/Text_Summarization-purple" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-red" />
 </p>
 
 🔗 **GitHub Repository:**  
